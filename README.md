@@ -1,4 +1,4 @@
-<h1 align="center">They call me NotEduCo342 Mahan</h1>
+<h1 align="center">They call me NotEduCo342, Mahan</h1>
 <h3 align="center">Front-end Developer(HTML&CSS, Sass, JS, React), also a little Networking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noteduco342&label=Profile%20views&color=0e75b6&style=flat" alt="noteduco342" /> </p>
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love Jojo**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me with:</h3>
 <p align="left">
 <a href="https://instagram.com/noteduco342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noteduco342" height="30" width="40" /></a>
 </p>

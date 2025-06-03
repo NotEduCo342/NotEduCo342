@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noteduco342&label=Profile%20views&color=0e75b6&style=flat" alt="noteduco342" /> </p>
 
-- I'm currently working on [Winter-MC](https://Winter-MC.IR)
+- I'm currently working on CurrencyFetcher And EagerDevelopers
 
 - I'm trying to learn **Python, Java(Minecraft Syntax)**
 
-- 💬 Ask me about **Minecraft Server Development**
+- 💬 Ask me about **Anything You like?**
 
-- 📫 How to reach me **mahangamer342@gmail.com**
+- 📫 How to reach me **NotEduCo342@gmail.com**
 
 - ⚡ Fun fact **I love Jojo**
 

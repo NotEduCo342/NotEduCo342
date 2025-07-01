@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noteduco342&label=Profile%20views&color=0e75b6&style=flat" alt="noteduco342" /> </p>
 
-- I'm currently working on CurrencyFetcher And EagerDevelopers
+- I'm currently working on NotEduCo342.iR And EagerDevelopersReact
 
-- I'm trying to learn **Python, Java(Minecraft Syntax)**
+- I'm trying to learn **Python, NextJS**
 
 - 💬 Ask me about **Anything You like?**
 

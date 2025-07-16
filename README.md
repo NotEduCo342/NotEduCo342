@@ -1,17 +1,17 @@
 <h1 align="center">They call me NotEduCo342, Mahan</h1>
-<h3 align="center">Front-end Developer(HTML&CSS, Sass, JS, React), also a little Networking</h3>
+<h3 align="center">Front-end Developer(HTML&CSS, JS, React), also a little Networking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noteduco342&label=Profile%20views&color=0e75b6&style=flat" alt="noteduco342" /> </p>
 
-- I'm currently working on NotEduCo342.iR And EagerDevelopersReact
+- I'm currently working on https://NotEduCo342.iR And https://EagerDevelopers.iR
 
-- I'm trying to learn **Python, NextJS**
+- I'm trying to learn **NodeJS, NextJS**
 
 - 💬 Ask me about **Anything You like?**
 
 - 📫 How to reach me **NotEduCo342@gmail.com**
 
-- ⚡ Fun fact **I love Jojo**
+- ⚡ Fun fact **As you can guess, My Favorite anime is JoJo**
 
 <h3 align="left">Contact me with:</h3>
 <p align="left">

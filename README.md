@@ -9,7 +9,7 @@
   </h1>
   
   <p>
-    A passionate <strong>Front-end Developer</strong> and <strong>Mechatronics Student</strong> from Germany, building things for the web and the physical world. I love combining software with hardware to create unique, automated solutions.
+    A passionate <strong>Front-end Developer</strong> and <strong>Mechatronics Student</strong> from The Earth ( Of Course ? ), building things for the web and the physical world. I love combining software with hardware to create unique, automated solutions.
   </p>
   
   <p>

@@ -1,15 +1,19 @@
 <div align="center">
-  <a href="https://noteduco342.ir">
-    <img src="https://i.imgur.com/m2ORfsS.png" alt="Profile Banner" />
-  </a>
-
-  <h1>
-    Hey there, I'm Mahan (NotEduCo342) 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); height: 280px; width: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" style="margin-right: 15px;"/>
+    <h1 style="color: white; font-size: 48px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      Hi, I'm Mahan!
+    </h1>
+  </div>
+  
+  <h3>
+    <a href="https://navazino.com">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71735&center=true&vCenter=true&width=435&lines=Building+Navazino.com+🎵;Crafting+Modern+Web+Experiences;Exploring+Go+%26+Cloud+Native;Mechatronics+%2B+Software+Engineering" alt="Typing SVG" />
+    </a>
+  </h3>
   
   <p>
-    A passionate <strong>Front-end Developer</strong> and <strong>Mechatronics Student</strong> from The Earth ( Of Course ? ), building things for the web and the physical world. I love combining software with hardware to create unique, automated solutions.
+    A passionate <strong>Full Stack Developer</strong> and <strong>Mechatronics Student</strong> creating scalable solutions for the web and beyond.
   </p>
   
   <p>
@@ -19,73 +23,65 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Current Focus & Projects
 
-- 🔭 &nbsp; I’m currently working on my personal site **[NotEduCo342.iR](https://noteduco342.ir)** and **[EagerDevelopers.iR](https://eagerdevelopers.ir)**.
-- 🌱 &nbsp; I’m currently focused on mastering **Next.js** for production-grade applications and diving deeper into **Node.js**.
-- 🤖 &nbsp; On the hardware side, I'm designing a **home automation system** using an **ESP32** hub and **ESP8266** nodes with the ESP-NOW protocol.
-- 💬 &nbsp; Ask me about **React, JavaScript, Tailwind CSS, ESP32, or anything related to IoT!**
-- 📫 &nbsp; How to reach me: **noteduco342@gmail.com**
-- ⚡ &nbsp; Fun fact: My favorite anime is **JoJo's Bizarre Adventure**. Ora Ora Ora!
-
----
-
-### 🛠️ My Tech Stack & Tools
-
-Here's a snapshot of the languages, frameworks, and tools I use.
-
-#### Front-End Development
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-</p>
-
-#### Back-End & Database
-<p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
-#### Microcontrollers & IoT
-<p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/O6s2fRB.png" alt="esp32" width="40" height="40"/></a>
-</p>
-
-#### Other Tools
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+- 🎵 &nbsp; **Lead Developer** at **[Navazino](https://navazino.com)** – A next-gen music streaming platform.
+- 🔭 &nbsp; Continuously maintaining **[NotEduCo342.iR](https://noteduco342.ir)** and **[EagerDevelopers.iR](https://eagerdevelopers.ir)**.
+- 🌱 &nbsp; Deep diving into **Cloud Native** technologies with **Docker** and **Kubernetes**.
+- 🚀 &nbsp; Exploring the efficiency of **Go (Golang)** for backend services.
+- 💬 &nbsp; Ask me about **Next.js, NestJS, TypeScript, DevOps, or IoT automation!**
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://github.com/NotEduCo342">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noteduco342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteduco342&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <!-- Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,html,css&perline=7" />
   </a>
+  <br>
+  <br>
+  
+  <!-- Frontend & Backend Frameworks -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express,tailwindcss,bootstrap,sass&perline=8" />
+  </a>
+  <br>
+  <br>
+  
+  <!-- DevOps, Database & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,mongodb,redis,git,linux,figma,arduino&perline=10" />
+  </a>
+
 </div>
-<div align="center" style="margin-top: 16px;">
-  <a href="https://github.com/NotEduCo342">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noteduco342&theme=tokyonight&hide_border=true"/>
-  </a>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noteduco342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteduco342&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noteduco342&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://instagram.com/noteduco342" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="noteduco342"/></a>
-  &nbsp;&nbsp;
-  </p>
+<div align="center">
+  <a href="mailto:noteduco342@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/noteduco342" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://navazino.com" target="_blank">
+    <img src="https://img.shields.io/badge/Navazino-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Navazino"/>
+  </a>
+</div>

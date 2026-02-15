@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Current Focus & Projects
 
-- 🎵 &nbsp; **Lead Developer** at **[Navazino](https://navazino.com)** – A next-gen music streaming platform.
+- 🎵 &nbsp; **Developer** at **[Navazino](https://navazino.com)** – A next-gen music streaming platform.
 - 🔭 &nbsp; Continuously maintaining **[NotEduCo342.iR](https://noteduco342.ir)** and **[EagerDevelopers.iR](https://eagerdevelopers.ir)**.
 - 🌱 &nbsp; Deep diving into **Cloud Native** technologies with **Docker** and **Kubernetes**.
 - 🚀 &nbsp; Exploring the efficiency of **Go (Golang)** for backend services.
